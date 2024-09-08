@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hola, Soy Juan Jose
 
-<!--
-**juan4949/juan4949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi pacion es programar, ayudar, enseñar y aprender
 
-Here are some ideas to get you started:
+#### Sobre mi
+- 🧑‍💻 Desarrollador de programacion como: JavaScript, Python, React, Tailwind.CSS.
+- 🎮 Soy aficionado a los juegos.
+- 🧬 Mis tiempos libre hago lo que mas me gusta.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Habilidades Técnicas
+<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="js" /></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="py" /></a>
+<a><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" /></a>
+<a><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" /></a>
+
+#### Mis proyectos destacados
+- 🤖 [Nauj](https://discord.com/oauth2/authorize?client_id=1278139619724230759)
+
+### 📊 GitHub Estadisticas
+<table>
+  <tr>
+	<td align="center" style="padding=0;width=50%;">
+	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=juan4949&show_icons=true&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&bg_color=0f172a" height="180" />
+	</td>
+	<td align="center" style="padding=0;width=50%;">
+	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan4949&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&layout=compact&bg_color=0f172a" height="180" />
+	</td>
+  </tr>
+</table>
+
+<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juan4949&label=Profile%20views&color=0e75b6&style=flat" alt="juan4949" />
+  <a href="https://discord.com/invite/N2aDvHCYNQ"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="discord" /></a>
+</p>
