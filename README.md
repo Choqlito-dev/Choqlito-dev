@@ -31,5 +31,5 @@ Mi pacion es programar, ayudar, enseñar y aprender
 <br />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=juan4949&label=Profile%20views&color=0e75b6&style=flat" alt="juan4949" />
-  <a href="https://discord.com/invite/N2aDvHCYNQ"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="discord" /></a>
+  <a href="https://discord.com/invite/vA6VhnVT6X"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="discord" /></a>
 </p>
