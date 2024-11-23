@@ -20,16 +20,16 @@ Mi pacion es programar, ayudar, enseñar y aprender
 <table>
   <tr>
 	<td align="center" style="padding=0;width=50%;">
-	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=juan4949&show_icons=true&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&bg_color=0f172a" height="180" />
+	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=choqlito-dev&show_icons=true&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&bg_color=0f172a" height="180" />
 	</td>
 	<td align="center" style="padding=0;width=50%;">
-	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan4949&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&layout=compact&bg_color=0f172a" height="180" />
+	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choqlito-dev&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&layout=compact&bg_color=0f172a" height="180" />
 	</td>
   </tr>
 </table>
 
 <br />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juan4949&label=Profile%20views&color=0e75b6&style=flat" alt="juan4949" />
-  <a href="https://discord.com/invite/vA6VhnVT6X"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="discord" /></a>
+  <img src="https://komarev.com/ghpvc/?username=choqlito-dev&label=Profile%20views&color=0e75b6&style=flat" alt="choqlito-dev" />
+  <a href="https://discord.gg/invite/zsTzTCfEyj"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="discord" /></a>
 </p>
