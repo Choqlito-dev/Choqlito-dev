@@ -14,7 +14,7 @@ Mi pacion es programar, ayudar, enseñar y aprender
 <a><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" /></a>
 
 #### Mis proyectos destacados
-- 🛒 [Nauj Store](https://discord.gg/invite/zsTzTCfEyj)
+
 
 ### 📊 GitHub Estadisticas
 <table>
