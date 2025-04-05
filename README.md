@@ -3,14 +3,14 @@
 Mi pacion es programar, ayudar, enseñar y aprender
 
 #### Sobre mi
-- 🧑‍💻 Desarrollador de programacion como: JavaScript, Python, React, Tailwind.CSS.
+- 🧑‍💻 Desarrollador de programacion como: JavaScript, Python, ReactJS, Tailwind.CSS.
 - 🎮 Soy aficionado a los juegos.
 - 🧬 Mis tiempos libre hago lo que mas me gusta.
 
 #### Habilidades Técnicas
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="js" /></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="py" /></a>
-<a><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" /></a>
+<a><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react" /></a>
 <a><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" /></a>
 
 #### Mis proyectos destacados
