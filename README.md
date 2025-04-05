@@ -31,5 +31,4 @@ Mi pacion es programar, ayudar, enseñar y aprender
 <br />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=choqlito-dev&label=Profile%20views&color=0e75b6&style=flat" alt="choqlito-dev" />
-  <a href="https://discord.gg/invite/zsTzTCfEyj"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="discord" /></a>
 </p>
