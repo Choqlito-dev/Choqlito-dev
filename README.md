@@ -3,7 +3,7 @@
 Mi pacion es programar, ayudar, enseñar y aprender
 
 #### Sobre mi
-- 🧑‍💻 Desarrollador de programacion como: JavaScript, Python, ReactJS, Tailwind.CSS.
+- 🧑‍💻 Desarrollador de programacion como: Javascript, Python, ReactJS, TailwindCSS.
 - 🎮 Soy aficionado a los juegos.
 - 🧬 Mis tiempos libre hago lo que mas me gusta.
 
